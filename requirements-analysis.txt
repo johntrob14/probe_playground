@@ -1,0 +1,6 @@
+# CPU analysis/test dependencies only; install pyproject dependencies for GPU work.
+numpy>=1.26,<3
+pandas>=2,<3
+scipy>=1.11,<2
+scikit-learn>=1.4,<2
+pytest>=8,<10
